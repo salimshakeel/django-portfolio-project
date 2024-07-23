@@ -2,7 +2,7 @@
 
 Welcome to my Django Portfolio Project repository! This project showcases my personal portfolio, built using the Django web framework. Below, you'll find information about the project, how to set it up, and some insights into Django.
 
-![Portfolio Screenshot](path/to/your/image.png)
+![Portfolio Screenshot]("D:\Project-Python\Build Protfolio with Django\picture\tye_new_you.jpg")
 
 ## About the Project
 
